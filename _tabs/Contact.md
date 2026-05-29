@@ -1,11 +1,13 @@
 ---
-layout: page
 title: Contact
 icon: fas fa-envelope
-order: 7
+order: 4
 ---
 
 # Contact
 
-- GitHub: https://github.com/20233308-juchanJO
-- Email: your-email@example.com
+- GitHub:
+  https://github.com/20233308-juchanJO
+
+- Email:
+  your-email@example.com
