@@ -1,20 +1,23 @@
 ---
-layout: page
 title: Projects
 icon: fas fa-laptop-code
-order: 4
+order: 3
 ---
 
 # Projects
 
 ## GitHub Pages Portfolio
+- 개인 포트폴리오 사이트 제작
+- Jekyll + Chirpy 테마 사용
+- GitHub Actions 기반 자동 배포
 
-- 개인 포트폴리오 웹사이트 제작
-- GitHub Pages + Jekyll 기반
-- Markdown 포스트 작성
-- Git 기반 버전 관리 경험
+## Git Practice
+- branch
+- merge
+- conflict
+- rebase 실습
 
-## C++ Chart Program
-
-- 색 선호도 조사 차트 프로그램 구현
-- 클래스 기반 객체지향 프로그래밍 연습
+## Western History Analysis
+- 미국 대통령 연설 분석
+- 냉전 시대 배경 정리
+- 영어 독해 및 요약
